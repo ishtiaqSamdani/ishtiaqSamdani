@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://github-readme-stats.vercel.app/api?username=ishtiaqSamdani&show_icons=true&theme=nightowl
+[![Ishmart's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtiaqSamdani)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
