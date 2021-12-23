@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 -->
 
 [![Ishmart's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishtiaqSamdani)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display:flex;flex-direction:row;">
+  <h2>
+    ❤CSS❤  
+    ❤JS❤
+    
+  </h2>
+  
+<div>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqSamdani)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
+</div>  
 
 
 
