@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 <div>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqSamdani&langs_count=8&show_icons=true&theme=tokyonight&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqSamdani&langs_count=8&show_icons=true&theme=tokyonight&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 </div>  
