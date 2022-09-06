@@ -1,21 +1,31 @@
-<h3 align="center">Hello, I'm Ishtiaq👋</h3>
-<p align="center"> <b>Intrapreneur | Linchpin 👨🏻‍💻</b> </p>
+
+<h3 align="center">Hello, I'm Ishtiaq Samdani👋</h3>
+<div align="center">
+<img src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="9%"/>
+<p> <b>Intrapreneur | Linchpin ⚡️ </b></p>
+
+</div>
 
 ***
+
 I'm <b>Ishtiaq Samdani</b>, <b>Computer Science Student</b> & <b>Google DSC Technical Lead '21</b> at  
 <b>Aditya Engineering College, Surampalem (2023 Batch)</b>.  
+
+
 ***
   
 
 <div align="center">
 
 
+
+   
 <a href="https://github.com/ishtiaqSamdani">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqSamdani&layout=compact&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444" width="43%" alt="github-stats-abhibhaw" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtiaqSamdani&langs_count=8&show_icons=true&theme=tokyonight&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444&hide_border=true&layout=compact" alt="Ishtiaq's GitHub Stats" />
 </a>
 
 <a href="https://github.com/ishtiaqSamdani">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishtiaqSamdani&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444" alt="Ishtiaq's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishtiaqSamdani&show_icons=true&theme=tokyonight&bg_color=120deg,22272e,1b2439,1c1f41,261746,360444&hide_border=true" alt="Ishtiaq's GitHub Stats" width="450rem"/>
 </a>
 
 </div>
@@ -78,3 +88,6 @@ I'm <b>Ishtiaq Samdani</b>, <b>Computer Science Student</b> & <b>Google DSC Tech
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=for-the-badge&logo=Firebase&logoColor=white&color=261746&labelColor=360444)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=for-the-badge&logo=Amazon-AWS&logoColor=white&color=261746&labelColor=360444)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=261746&labelColor=360444)
+
+
+
