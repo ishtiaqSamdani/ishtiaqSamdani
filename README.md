@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello 👋</h3>
+<h3 align="center">Hello, I'm Ishtiaq Samdani👋</h3>
 <div align="center">
 <img src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="9%"/>
 <p> <b>Intrapreneur | Linchpin ⚡️ </b></p>
@@ -7,6 +7,9 @@
 </div>
 
 ***
+
+I'm <b>Ishtiaq Samdani</b>, <b>Computer Science Student</b> & <b>Google DSC Technical Lead '21</b> at  
+<b>Aditya Engineering College, Surampalem (2023 Batch)</b>.  
 
 
 ***
@@ -85,6 +88,3 @@
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=for-the-badge&logo=Firebase&logoColor=white&color=261746&labelColor=360444)
 ![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=for-the-badge&logo=Amazon-AWS&logoColor=white&color=261746&labelColor=360444)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=261746&labelColor=360444)
-
-
-
