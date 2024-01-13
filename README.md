@@ -8,9 +8,6 @@
 
 ***
 
-I'm <b>Ishtiaq Samdani</b>, <b>Computer Science Student</b> & <b>Google DSC Technical Lead '21</b> at  
-<b>Aditya Engineering College, Surampalem (2023 Batch)</b>.  
-
 
 ***
   
