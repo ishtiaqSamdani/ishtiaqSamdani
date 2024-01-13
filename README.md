@@ -1,5 +1,5 @@
 
-<h3 align="center">Hello, I'm Ishtiaq Samdani👋</h3>
+<h3 align="center">Hello 👋</h3>
 <div align="center">
 <img src="https://i.pinimg.com/originals/a8/d5/ba/a8d5baeb06fc12c77ccefd0121010d20.gif" width="9%"/>
 <p> <b>Intrapreneur | Linchpin ⚡️ </b></p>
